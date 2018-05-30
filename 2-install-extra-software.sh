@@ -13,7 +13,7 @@ set -e
 
 # Atom
 
-sh install-atom-v*.sh
+# sh install-atom.sh
 
 ###############################################################################################
 
@@ -25,43 +25,43 @@ sh install-brackets-v*.sh
 
 # Google Chrome
 
-sh install-google-chrome-v*.sh
+# sh install-google-chrome.sh
 
 ###############################################################################################
 
 # Gradio
 
-sh install-gradio-v*.sh
+sh install-gradio.sh
 
 ###############################################################################################
 
 # Neofetch
 
-sh install-neofetch-v*.sh
+# sh install-neofetch.sh
 
 ###############################################################################################
 
 # Peek
 
-sh install-peek-v*.sh
+sh install-peek.sh
 
 ###############################################################################################
 
 # Redshift
 
-sh install-redshift-v*.sh
+sh install-redshift.sh
 
 ###############################################################################################
 
 # Simplescreenrecorder
 
-sh install-simplescreenrecorder-v*.sh
+sh install-simplescreenrecorder.sh
 
 ###############################################################################################
 
 # Spotify
 
-sh install-spotify-v*.sh
+# sh install-spotify.sh
 
 
 ###############################################################################################
@@ -81,19 +81,19 @@ sh install-sublime-text-v*.sh
 
 # Variety
 
-sh install-variety-v*.sh
+sh install-variety.sh
 
 ###############################################################################################
 
 # Vivaldi
 
-sh install-vivaldi-snapshot-v*.sh
+sh install-vivaldi-snapshot.sh
 
 ###############################################################################################
 
 # Hardcode fixer
 
-sh hardcodefixer-v*.sh
+sh hardcodefixer.sh
 
 ###############################################################################################
 
