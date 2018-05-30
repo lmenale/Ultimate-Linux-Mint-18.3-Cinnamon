@@ -61,8 +61,10 @@ fi
 #https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 
 git init
-git config --local user.name "lmenale"
-git config --local user.email "menale.luigi@gmail.com"
+# git config --local user.name "lmenale"
+# git config --local user.email "menale.luigi@gmail.com"
+git config --global user.name "lmenale"
+git config --global user.email "luigi.menale@technica-engineering.de"
 sudo git config --system core.editor nano
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=100000'
