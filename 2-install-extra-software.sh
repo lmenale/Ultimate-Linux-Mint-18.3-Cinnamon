@@ -19,7 +19,7 @@ set -e
 
 # Brackets
 
-sh install-brackets-v*.sh
+sh install-brackets.sh
 
 ###############################################################################################
 
@@ -68,7 +68,7 @@ sh install-simplescreenrecorder.sh
 
 # Sublime text 3
 
-sh install-sublime-text-v*.sh
+# sh install-sublime-text.sh
 
 
 ###############################################################################################
