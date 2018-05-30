@@ -60,7 +60,7 @@ echo "####################################"
 read input
 
 # Committing to the local repository with a message containing the time details and commit text
-curtime=$(date)
+curtime=$(date +"%d %b %Y")
 git commit -m "Comment : $input on $curtime"
 
 # Push the local files to github
