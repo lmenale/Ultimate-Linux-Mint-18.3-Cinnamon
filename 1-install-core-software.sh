@@ -3,7 +3,7 @@ set -e
 ##################################################################################################################
 # Written to be used on 64 bits computers
 # Author 	: 	Luigi Menale
-# Website 	: 	http://www.erikdubois.be
+# Website 	: 	https://www.menale.it
 ##################################################################################################################
 ##################################################################################################################
 #
@@ -12,10 +12,10 @@ set -e
 ##################################################################################################################
 
 #software from 'normal' repositories
-sudo apt-get install -y catfish clementine curl dconf-cli dconf-editor dropbox evolution focuswriter geany geary gimp gpick
-sudo apt-get install -y glances gparted grsync hardinfo inkscape meld
-sudo apt-get install -y openshot pinta plank ppa-purge radiotray screenruler screenfetch scrot shutter slurm synapse
-sudo apt-get install -y thunar vlc vnstat   
+sudo apt-get install -y catfish clementine curl dconf-cli dconf-editor dropbox evolution gpick
+sudo apt-get install -y glances gparted hardinfo meld
+sudo apt-get install -y plank ppa-purge screenruler screenfetch shutter slurm synapse
+sudo apt-get install -y thunar vlc vnstat
 
 
 #operating specific software

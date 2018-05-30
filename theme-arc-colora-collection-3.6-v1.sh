@@ -23,7 +23,7 @@
 ##################################################################################################################
 # Written to be used on 64 bits computers
 # Author 	: 	Luigi Menale
-# Website 	: 	http://www.erikdubois.be
+# Website 	: 	https://www.menale.it
 ##################################################################################################################
 #
 # More from Luigi Menale
